@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "whats-happening-app",
+    "slug": "whats-happening-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "whats-happening-app"
+}
